@@ -279,7 +279,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 For questions or further information:
 
-- **Name**: Shaun Mia
-- **Email**: shaunmia.cse@gmail.com
-- **LinkedIn**: [Shaun Mia](https://www.linkedin.com/in/shaun-mia/)
-- **GitHub**: [shaun-mia](https://github.com/shaun-mia)
+- **Name**: Dandi Kurniawan
+- **Email**: dandykurniawan180@gmail.com
+- **LinkedIn**: [Dandi Kurniawan](http://www.linkedin.com/in/dandi-kurniawan)
+- **GitHub**: [Dandi Kurniawan](https://github.com/dandykurniawan18)
